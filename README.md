@@ -13,3 +13,5 @@ miniCDi_nx is a port of miniCDi Emulator for Nintendo Switch
 | *Reset emulator*     | L                |
 | *Play button on FP*  | +                |
 | *Open GUI*           | R                |
+
+expect many bugs like *controls not working correctly* and *audio not working correctly* as the emulator is still expermental
