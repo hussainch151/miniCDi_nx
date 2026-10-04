@@ -1,5 +1,5 @@
 # miniCDi_nx
-miniCDi is originally made by CatmanFan all credit goes to him for making this emulator
+miniCDi is originally made by CatmanFan all credit goes to him for making this emulator link: https://github.com/CatmanFan/miniCDi
 
 miniCDi_nx is a port of miniCDi Emulator for Nintendo Switch
 
