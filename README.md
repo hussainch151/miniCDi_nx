@@ -3,7 +3,7 @@ miniCDi is originally made by CatmanFan all credit goes to him for making this e
 
 miniCDi_nx is a port of miniCDi Emulator for Nintendo Switch
 
-*Controls*
+# Controls
 
 |                      |                  |
 |----------------------|------------------|
