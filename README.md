@@ -3,6 +3,11 @@ miniCDi is originally made by CatmanFan all credit goes to him for making this e
 
 miniCDi_nx is a port of miniCDi Emulator for Nintendo Switch
 
+# Usage
+
+Place the minicdi.nro in /switch/minicdi/ for the bios its /minicdi/rom/ and then for your cdi game dumps its /minicdi/discs/
+
+
 # Controls
 
 |                      |                  |
