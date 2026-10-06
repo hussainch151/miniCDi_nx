@@ -12,8 +12,8 @@ Place the minicdi.nro in /switch/minicdi/ for the bios its /minicdi/rom/ and the
 
 |                      |                  |
 |----------------------|------------------|
-| Button 1             | A                |
-| Button 2             | B                |
+| Button 1             | B                |
+| Button 2             | A                |
 | Directional buttons  | Left stick/D-Pad |
 | *Reset emulator*     | L                |
 | *Play button on FP*  | +                |
