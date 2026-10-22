@@ -5,7 +5,7 @@ miniCDi_nx is a port of miniCDi Emulator for Nintendo Switch
 
 # Usage
 
-Place the minicdi.nro in /switch/minicdi/ for the bios its /minicdi/rom/ and then for your cdi game dumps its /minicdi/discs/
+Place the minicdi.nro in sd:/switch/minicdi/ for the bios its sd:/minicdi/rom/ and then for your cdi game dumps its sd:/minicdi/discs/
 
 
 # Controls
